@@ -128,6 +128,11 @@ Construcción del modelo de machine learning:
 
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_01.jpg)
 
+Resultados en fase de grupos
+
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_02.jpg)
+
+
 
 
 
