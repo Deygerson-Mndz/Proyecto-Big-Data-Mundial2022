@@ -98,9 +98,7 @@ Para la implementación de la solución se utilizan los servicios de Google Clou
 El tablero lo puedes ver el el siguiente [link](https://datastudio.google.com/reporting/7d262f32-c37e-4943-bb9a-d377d4d5fa38)
 
 
->  6) Modelado:
-
->  7) Visualización con Data Studio:
+>  6) Visualización con Data Studio:
 
 La visualización de los datos es muy importante en todo proyecto, como bien lo menciona la autora de “La introducción a la visualización de datos” (Milanes guisado, Yusnelkis,2020), que con la visualización estadística de los datos, podemos ver patrones de comportamiento, tomar decisiones y mantenemos la interactividad.
 Mencionado lo anterior, para el presente trabajo se propone trabajar con un herramienta en la nube y open source, como lo es Data Studio.
