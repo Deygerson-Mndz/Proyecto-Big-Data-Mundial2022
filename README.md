@@ -134,9 +134,11 @@ Resultados en fase de grupos
 
 Resultados en 16avos de final
 
-
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_03.jpg)
 
+Resultados en cuartos de final
+
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_04.jpg)
 
 
 
