@@ -124,6 +124,10 @@ A continuación muestro unas capturas del Tablero en Data Studio que se elaboró
 
 >  7) Modelado:
 
+Requisitos de datos
+
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_07.jpg)
+
 Construcción del modelo de machine learning:
 
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_01.jpg)
