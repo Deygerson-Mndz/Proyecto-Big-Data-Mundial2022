@@ -60,7 +60,7 @@ Para la implementación de la solución se utilizan los servicios de Google Clou
 
 * **Analytics:** Google Data Studio.
 
-![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/Arquitectura_projecto.jpg)
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ArquitecturaProjecto.jpg)
 
 
 ## Implementación de la solución END2END:
