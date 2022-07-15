@@ -126,7 +126,7 @@ A continuación muestro unas capturas del Tablero en Data Studio que se elaboró
 
 Construcción del modelo de machine learning:
 
-![Image text]([https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ArquitecturaProjecto.jpg](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_01.jpg))
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_01.jpg)
 
 
 
