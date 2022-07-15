@@ -132,8 +132,10 @@ Resultados en fase de grupos
 
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_02.jpg)
 
+Resultados en 16avos de final
 
 
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_03.jpg)
 
 
 
