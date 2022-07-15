@@ -140,6 +140,12 @@ Resultados en cuartos de final
 
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_04.jpg)
 
+Resultado final del modelo
+
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_05.jpg)
+
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/ML_06.jpg)
+
 
 
 
