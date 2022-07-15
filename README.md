@@ -57,7 +57,7 @@ Para la implementación de la solución se utilizan los servicios de Google Clou
 
 * **Analytics:** Google Data Studio.
 
-![Captura1](https://user-images.githubusercontent.com/60514118/178650280-efffd85b-d13a-44b9-8cc4-2545cdef5eb6.PNG)
+![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/Arquitectura_projecto.jpg)
 
 * **Código de la solución:** Link de Github
 
