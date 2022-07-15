@@ -62,8 +62,6 @@ Para la implementación de la solución se utilizan los servicios de Google Clou
 
 ![Image text](https://github.com/Deygerson-Mndz/Proyecto-Big-Data-Mundial2022/blob/main/Arquitectura_projecto.jpg)
 
-* **Código de la solución:** Link de Github
-
 
 ## Implementación de la solución END2END:
 
